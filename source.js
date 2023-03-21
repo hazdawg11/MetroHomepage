@@ -1,7 +1,7 @@
 var bookmarks = new Array();
 bookmarks[0] = new Array(
 	'YouTube',
-	'http://gamespot.com',
+	'https://gamespot.com',
 	'youtube.png'
 );
 bookmarks[1] = new Array(
@@ -11,7 +11,7 @@ bookmarks[1] = new Array(
 );
 bookmarks[2] = new Array(
 	'Grooveshark',
-	'http://ign.com/',
+	'https://ign.com/',
 	'grooveshark.png'
 );
 bookmarks[3] = new Array(
@@ -21,12 +21,12 @@ bookmarks[3] = new Array(
 );
 bookmarks[4] = new Array(
 	'twitter',
-	'http://twitter.com',
+	'https://twitter.com',
 	'twitter.png'
 );
 bookmarks[5] = new Array(
 	'google',
-	'http://google.com',
+	'https://google.com',
 	'google.png'
 );
 bookmarks[6] = new Array(
@@ -46,12 +46,12 @@ bookmarks[8] = new Array(
 );
 bookmarks[9] = new Array(
 	'deviantART',
-	'http://www.youtube.com/feed/subscriptions/u',
+	'https://www.youtube.com/feed/subscriptions/u',
 	'deviantart.png'
 );
 bookmarks[10] = new Array(
 	'wikipedia',
-	'http://www.soundcloud.com/dashboard/incoming',
+	'https://www.soundcloud.com/dashboard/incoming',
 	'wikipedia.png'
 );
 bookmarks[11] = new Array(
