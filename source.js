@@ -31,7 +31,7 @@ bookmarks[5] = new Array(
 );
 bookmarks[6] = new Array(
 	'facebook',
-	'https://www.facebook.com/?ref=logo',
+	'https://www.facebook.com/',
 	'facebook.png'
 );
 bookmarks[7] = new Array(
@@ -51,7 +51,7 @@ bookmarks[9] = new Array(
 );
 bookmarks[10] = new Array(
 	'wikipedia',
-	'https://www.soundcloud.com/dashboard/incoming',
+	'https://soundcloud.com/feed',
 	'wikipedia.png'
 );
 bookmarks[11] = new Array(
