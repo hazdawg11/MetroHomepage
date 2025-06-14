@@ -1,12 +1,12 @@
 var bookmarks = new Array();
 bookmarks[0] = new Array(
 	'YouTube',
-	'https://gamespot.com',
+	'https://messenger.com',
 	'youtube.png'
 );
 bookmarks[1] = new Array(
 	'Yahoo',
-	'https://discordapp.com/channels/@me',
+	'https://app.plex.tv/desktop/#!/',
 	'yahoo.png'
 );
 bookmarks[2] = new Array(
@@ -16,12 +16,12 @@ bookmarks[2] = new Array(
 );
 bookmarks[3] = new Array(
 	'last.fm',
-	'https://messenger.com',
+	'https://gamespot.com',
 	'lastfm.png'
 );
 bookmarks[4] = new Array(
 	'twitter',
-	'https://twitter.com',
+	'https://www.reddit.com/',
 	'twitter.png'
 );
 bookmarks[5] = new Array(
@@ -56,6 +56,6 @@ bookmarks[10] = new Array(
 );
 bookmarks[11] = new Array(
 	'iTunes',
-	'https://www.reddit.com/',
+	'https://www.amazon.com.au/',
 	'itunes.png'
 );
